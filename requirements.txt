@@ -1,0 +1,16 @@
+pandas>=2.1
+numpy
+geopandas>=0.14
+shapely>=2.0
+pyogrio
+scikit-learn>=1.3
+geopy
+pulp
+requests
+openpyxl
+matplotlib
+plotly
+folium
+streamlit
+streamlit-folium
+jupyter
